@@ -15,4 +15,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icedfire34&" alt="icedfire34" /></p>
 
-
+![snake gif](https://github.com/IcedFire34/IcedFire34/blob/output/github-contribution-grid-snake.gif)
